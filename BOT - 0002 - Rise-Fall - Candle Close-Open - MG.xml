@@ -183,13 +183,13 @@
                     </value>
                   </block>
                 </value>
-                <next>
+                <next>18535;
                   <block type="math_change" id="RM;1ukU?WhjYBpidBmId">
                     <field name="VAR" id="n:A}H6=|acb7(^1uTAqc" variabletype="">LOSS-COUNTER</field>
                     <value name="DELTA">
                       <shadow type="math_number" id="XTZ2+nV.i[cVbJFBRP$,">
                         <field name="NUM">1</field>
-                      </shadow>
+Mainka7419
                     </value>
                     <next>
                       <block type="controls_if" id=";b8bxWncv9g~_wZ5j-,?">
