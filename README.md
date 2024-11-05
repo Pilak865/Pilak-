@@ -1,4 +1,4 @@
-# freeTradingBots
+# freeTradingBots - Make sure to back test before using
 This is a repository for free bots that you can use to trade at your own discretion and earn millions.
 
 Free Trading Bots Repository: Automate Your Trading Strategies
@@ -34,6 +34,18 @@ Follow the individual README files inside each bot's folder for installation ins
 Create an Account: 
 https://rb.gy/xqt44t
 
+# Wondering how to deposit
+
+# Simply deposit with MPESA by following this steps: -
+- Kindly send the amount you want to deposit to till 4475834 (GEIGHTFORGEIGHT INVESTMENT)
+- whatsapp your cr number to 0792 673 175
+- wait 1 minute and the deposit should be done
+- check your account to ensure the dollars have been credited
+
+# WHERE TO LEARN FOR FREE
+Youtube: https://www.youtube.com/channel/UCVpd8EuS8yAWMGkNtZ23Y3A
+
+- 
 Usage
 Check the guide inside each bot’s directory to learn how to deploy and customize the trading bot.
 
